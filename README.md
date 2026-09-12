@@ -12,7 +12,7 @@ Reconocimiento del entorno y creación del repositorio para el desarrollo del pr
 
 **Nombre:** Allison Michelle Rodríguez Valencia
 
-**Rol en la industria:** Programadora de videojuegos
+**Rol en la industria:** Artista de videojuegos
 
 **Ubicación:** Colombia
 
@@ -20,7 +20,7 @@ Reconocimiento del entorno y creación del repositorio para el desarrollo del pr
 
 ## Perfil
 
-Soy estudiante interesada en el desarrollo y la programación de videojuegos. Me interesa aprender sobre la creación de videojuegos, el desarrollo de software y las herramientas tecnológicas utilizadas en la industria. Mi objetivo es adquirir conocimientos y habilidades que me permitan participar en el desarrollo de proyectos relacionados con los videojuegos.
+Soy estudiante interesada en el diseño y la creación artística para videojuegos. Me gusta dibujar, crear personajes, diseñar escenarios y desarrollar elementos visuales que aporten creatividad y personalidad a los videojuegos. Mi objetivo es desarrollar habilidades como artista de videojuegos y aprender a utilizar herramientas digitales que me permitan participar en la creación de personajes, escenarios, objetos y diferentes recursos visuales para proyectos de videojuegos.
 
 ---
 
